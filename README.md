@@ -1,4 +1,4 @@
-# fpMsnPopup
-FreePascal component based on MsnPopup
+# MsnPopup
+FreePascal component
 
 ![screenshot](https://cloud.githubusercontent.com/assets/4740535/20983328/1a38bf3a-bccd-11e6-8323-83e8167338ab.png)
